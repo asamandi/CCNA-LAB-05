@@ -1,8 +1,6 @@
 Inter-VLAN Routing (Router-on-a-Stick)
 
 TOPOLOGY
-
-You need:
 ------------------------
 1 switch (S1)
 
@@ -16,7 +14,7 @@ PC VLAN20 ──┘
 
 PC VLAN30 ──┘
 
-We will configure:
+Configuration:
 ------------------------
 VLAN 10
 
