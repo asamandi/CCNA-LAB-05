@@ -14,7 +14,7 @@ PC VLAN20 ──┘
 
 PC VLAN30 ──┘
 
-Configuration:
+Configurations:
 ------------------------
 VLAN 10
 
