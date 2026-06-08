@@ -5,13 +5,13 @@
 - 1 switch (S1)
 - 1 router (R1)
 
-# Connections:
+### Connections:
 
 - PC VLAN10 ── S1 ── R1
 - PC VLAN20
 - PC VLAN30
 
-# Configurations:
+### Configurations:
 
 - VLAN 10
 - VLAN 20
@@ -19,7 +19,7 @@
 - Router subinterfaces
 - IP gateways for each VLAN
 
-# IP Addressing Plan:
+### IP Addressing Plan:
 
 VLAN 10
 - R1 subinterface: 10.10.10.1/24
